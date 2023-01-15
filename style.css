@@ -36,7 +36,7 @@ a:hover {
 .container {
   max-width: 960px;
   margin: 40px auto;
-  padding: 32px;
+  padding: 34px;
   background: white;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -115,6 +115,11 @@ img.avatar {
 
 .job-company {
   font-weight: bold;
+  line-height: 1.2;
+}
+
+.job-client {
+  font-weight: 200;
   line-height: 1.2;
 }
 
